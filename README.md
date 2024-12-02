@@ -26,5 +26,5 @@ A React Native Step Counter application that tracks your daily steps using devic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/step-counter.git
+   git clone https://github.com/burakfevzikar53/ReactNative-StepCounter.git
    cd step-counter
